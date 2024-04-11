@@ -2,7 +2,9 @@ This is a repository of codes, that I and members of my group (at IIEST Shibpur 
 These codes are related to micromechanics of piezoelectric composites. Essentially, we are interested in predicting the effective elastic (mechanical), dielectric, and piezoelectric properties of composites.
 There are codes written in MATLAB. These codes cater to extended Eshleby-Mori-Tanaka-based micromechanics, self-consistent schemes and double inclusion methods.
 Finite element codes using perioidic boundary conditions are written in Python script for ABAQUS.
-Finite element codes using homogeneus (or kinematic) boundary conditions are also provided.
+Finite element codes using homogeneus (or kinematic) boundary conditions are also provided. These codes can be run using COMSOL Multiphysics.
+
+Special thanks to Dr. Neelam Mishra and (soon to be Dr.) Kabir Baidya for writing and debugging the codes.
 We have used these codes in our publications, listed in my ORCiD profile:
 https://orcid.org/0000-0002-1102-1419
 
