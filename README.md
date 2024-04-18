@@ -11,6 +11,6 @@ Special thanks to Dr. Neelam Mishra and (soon to be Dr.) Kabir Baidya for writin
 We have used these codes in our publications, listed in my ORCiD profile:
 https://orcid.org/0000-0002-1102-1419
 
-If you find these codes useful, kindly acknowledge this github page.
-We have tried our codes to be as error-free as possible. Still, if there are discrepancies, please do not hesitate to contact me at kaushik.metal@faculty.iiests.ac.in 
-and/or kaushik@metal.iiests.ac.in
+If you find these codes useful, kindly acknowledge this github page and the relevant publication.
+We have tried to make our codes to be as error-free as possible. Still, if there are discrepancies, please do not hesitate to contact me at kaushik.metal@faculty.iiests.ac.in 
+and/or kaushik@metal.iiests.ac.in.
