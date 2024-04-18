@@ -1,4 +1,4 @@
-This is a repository of codes, that I and members of my group (at IIEST Shibpur and earlier at IIT Bhubaneswar) had written since 2016.
+This is a repository of codes, that I and members of my group (at Indian Institute of Engineering Science and Technology Shibpur and earlier at Indian Institute of Technology Bhubaneswar) had written since 2016.
 These codes are related to micromechanics of piezoelectric composites. Essentially, we are interested in predicting the effective elastic (mechanical), dielectric, and piezoelectric properties of composites.
 
 There are codes written in MATLAB. These codes cater to extended Eshleby-Mori-Tanaka-based micromechanics, self-consistent schemes and double inclusion methods.
